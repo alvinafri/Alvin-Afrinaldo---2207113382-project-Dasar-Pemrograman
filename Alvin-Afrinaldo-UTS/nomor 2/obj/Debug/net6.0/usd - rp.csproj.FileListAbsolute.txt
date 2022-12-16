@@ -1,0 +1,30 @@
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.AssemblyInfo.cs
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\usd - rp\bin\Debug\net6.0\usd - rp.exe
+C:\Users\ACER\Desktop\usd - rp\bin\Debug\net6.0\usd - rp.deps.json
+C:\Users\ACER\Desktop\usd - rp\bin\Debug\net6.0\usd - rp.runtimeconfig.json
+C:\Users\ACER\Desktop\usd - rp\bin\Debug\net6.0\usd - rp.dll
+C:\Users\ACER\Desktop\usd - rp\bin\Debug\net6.0\usd - rp.pdb
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.dll
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\refint\usd - rp.dll
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.pdb
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\usd - rp.genruntimeconfig.cache
+C:\Users\ACER\Desktop\usd - rp\obj\Debug\net6.0\ref\usd - rp.dll
+C:\Users\ACER\Desktop\nomor 2\bin\Debug\net6.0\usd - rp.exe
+C:\Users\ACER\Desktop\nomor 2\bin\Debug\net6.0\usd - rp.deps.json
+C:\Users\ACER\Desktop\nomor 2\bin\Debug\net6.0\usd - rp.runtimeconfig.json
+C:\Users\ACER\Desktop\nomor 2\bin\Debug\net6.0\usd - rp.dll
+C:\Users\ACER\Desktop\nomor 2\bin\Debug\net6.0\usd - rp.pdb
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.AssemblyInfo.cs
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.dll
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\refint\usd - rp.dll
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.pdb
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\usd - rp.genruntimeconfig.cache
+C:\Users\ACER\Desktop\nomor 2\obj\Debug\net6.0\ref\usd - rp.dll

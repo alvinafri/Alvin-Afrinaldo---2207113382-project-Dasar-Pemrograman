@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.AssemblyInfo.cs
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\tugas battle tank\bin\Debug\net6.0\tugas battle tank.exe
+C:\Users\ACER\Desktop\tugas battle tank\bin\Debug\net6.0\tugas battle tank.deps.json
+C:\Users\ACER\Desktop\tugas battle tank\bin\Debug\net6.0\tugas battle tank.runtimeconfig.json
+C:\Users\ACER\Desktop\tugas battle tank\bin\Debug\net6.0\tugas battle tank.dll
+C:\Users\ACER\Desktop\tugas battle tank\bin\Debug\net6.0\tugas battle tank.pdb
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.dll
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\refint\tugas battle tank.dll
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.pdb
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\tugas battle tank.genruntimeconfig.cache
+C:\Users\ACER\Desktop\tugas battle tank\obj\Debug\net6.0\ref\tugas battle tank.dll

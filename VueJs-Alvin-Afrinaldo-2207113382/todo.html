@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>To Do App</title>
+        <style>body{background-color:azure;}</style>
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.7.13/dist/vue.js"></script>
+    </head>
+
+    <body>
+        <div id="app">
+            <h1>To Do App</h1>
+            <input type="text" v-model="items">
+            <button type="submit" v-on:click="addItems">Tambah List</button>
+            <ul>
+                <li v-for="items in todos" v-on:click="removeItems(items)">{{items.name}}</li>
+            </ul>
+        </div>
+
+        <script>
+            new Vue({
+                el:"#app",
+                data:{
+                    items:"",
+                    todos:[],
+                },
+                methods:{
+                    addItems:function(){
+                        var items = {
+                            id: Date.now(),
+                            name: this.items
+                        };
+
+                        this.todos.push(items);
+                        this.items="";
+                    },
+                    removeItems:function(items){
+                        var newTodos=this.todos.filter(function(i)
+                        {
+                            return items.id !== i.id;
+                        });
+
+                        this.todos=newTodos;
+                    }
+                }
+            })
+        </script>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.AssemblyInfo.cs
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\nomor 4\bin\Debug\net6.0\nomor 4.exe
+C:\Users\ACER\Desktop\nomor 4\bin\Debug\net6.0\nomor 4.deps.json
+C:\Users\ACER\Desktop\nomor 4\bin\Debug\net6.0\nomor 4.runtimeconfig.json
+C:\Users\ACER\Desktop\nomor 4\bin\Debug\net6.0\nomor 4.dll
+C:\Users\ACER\Desktop\nomor 4\bin\Debug\net6.0\nomor 4.pdb
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.dll
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\refint\nomor 4.dll
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.pdb
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\nomor 4.genruntimeconfig.cache
+C:\Users\ACER\Desktop\nomor 4\obj\Debug\net6.0\ref\nomor 4.dll

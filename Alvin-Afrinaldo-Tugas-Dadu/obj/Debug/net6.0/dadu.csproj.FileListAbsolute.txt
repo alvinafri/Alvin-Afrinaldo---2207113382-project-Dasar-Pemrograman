@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\dadu\bin\Debug\net6.0\dadu.exe
+C:\Users\ACER\Desktop\dadu\bin\Debug\net6.0\dadu.deps.json
+C:\Users\ACER\Desktop\dadu\bin\Debug\net6.0\dadu.runtimeconfig.json
+C:\Users\ACER\Desktop\dadu\bin\Debug\net6.0\dadu.dll
+C:\Users\ACER\Desktop\dadu\bin\Debug\net6.0\dadu.pdb
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.AssemblyInfo.cs
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.dll
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\refint\dadu.dll
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.pdb
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\dadu.genruntimeconfig.cache
+C:\Users\ACER\Desktop\dadu\obj\Debug\net6.0\ref\dadu.dll

@@ -1,0 +1,15 @@
+c:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.exe
+c:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.deps.json
+c:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.runtimeconfig.json
+c:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.dll
+c:\Users\ACER\Desktop\DasPro\bin\Debug\net6.0\DasPro.pdb
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.AssemblyReference.cache
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.dll
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\refint\DasPro.dll
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.pdb
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+c:\Users\ACER\Desktop\DasPro\obj\Debug\net6.0\ref\DasPro.dll
